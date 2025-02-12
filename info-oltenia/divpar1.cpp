@@ -1,3 +1,5 @@
+//scor 58
+
 #include <fstream>
 using namespace std;
 
